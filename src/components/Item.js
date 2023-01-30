@@ -28,5 +28,4 @@ export default function Item({ item }) {
         {!resolved ? "Done" : "Undo"}
       </button>
     </div>
-  );
-}
+  );}
