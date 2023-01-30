@@ -10,5 +10,5 @@ export default function List() {
         return <Item item={item} key={item.id} />;
       })}
     </div>
-  );
+  ); 
 }
